@@ -11,6 +11,7 @@
     <module>ssm_parent_2_dao</module>
     <module>ssm_parent_2_service</module>
     <module>ssm_parent_2_web</module>
+    <module>ssm_parent_2_utils</module>
   </modules>
   <packaging>pom</packaging>
 
